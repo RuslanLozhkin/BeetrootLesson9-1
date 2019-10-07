@@ -19,6 +19,7 @@ article{
     justify-content: space-around;
     align-items: center;
     font-family: 'Miso';
+    letter-spacing: 1px;
 }
 .cup{
     display: flex;
